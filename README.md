@@ -1,2 +1,2 @@
-The site available on the www.burkovski.tk
+The site available on the burkovski.tk
 ![portfolio](portfolio.png)
